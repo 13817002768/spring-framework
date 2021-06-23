@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--根标签beans，里面配置一个又一个的bean子标签，每一个bean子标签都代表一个类的配置-->
+<beans xsi:schemaLocation=" http://www.springframework.org/schema/beans
+	https://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/tx
+	https://www.springframework.org/schema/tx/spring-tx.xsd "
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns:tx="http://www.springframework.org/schema/tx"
+	   xmlns="http://www.springframework.org/schema/beans">
+
+</beans>
